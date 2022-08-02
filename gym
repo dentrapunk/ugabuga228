@@ -1,0 +1,10 @@
+n = int(input())
+b = int(input())
+c = int(input())
+d = 0
+for i in range(a):
+    if b % c == 0 and b[-1] = 6:
+        d += 1
+    else:
+        d = d
+print(d)
